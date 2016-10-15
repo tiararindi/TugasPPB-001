@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="paket">
+        <item> Paket 1</item>
+        <item> Paket 2</item>
+        <item> Paket 3</item>
+        <item> Paket 4</item>
+        <item> Paket 5</item>
+    </string-array>
+</resources>
